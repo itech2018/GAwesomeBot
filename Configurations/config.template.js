@@ -64,7 +64,7 @@ module.exports = {
 	 * This must be a random and secure string!
 	 * Leaving this as default is NOT recommended.
 	 */
-	secret: "vFEvmrQl811q2E8CZelg4438l9YFwAYd",
+	secret: "vFEvmrQl811q2E8CZelg4438l9YFwAYdksjsjajasidjjjdjs",
 	/**
 	 * A secure, random password used to encrypt and decrypt some database values.
 	 * YOU SHOULD CHANGE THIS.
